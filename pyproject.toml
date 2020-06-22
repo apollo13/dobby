@@ -19,7 +19,7 @@ dobby = 'dobby.cli:main'
 python = ">=3.7,<3.9"
 jinja2 = "^2.11.1"
 httpx = "^0.12.0"
-click = "^7.1.1"
+click = "^7.1.2"
 colorama = "^0.4.3"
 PyYAML = "^5.3.1"
 importlib_metadata = { version = "^1.6.0", python = "<3.8" }
