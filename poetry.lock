@@ -319,7 +319,7 @@ future = "*"
 
 [[package]]
 name = "pex"
-version = "2.1.19"
+version = "2.1.20"
 description = "The PEX packaging toolchain."
 category = "dev"
 optional = false
@@ -531,7 +531,7 @@ testing = ["pytest (>=3.5,<3.7.3 || >3.7.3)", "pytest-checkdocs (>=1.2.3)", "pyt
 [metadata]
 lock-version = "1.1"
 python-versions = ">=3.6,<3.9"
-content-hash = "d7f9527e361668616d44ca0a4b0055b63f9f6826ee49de70e86260f88641f70f"
+content-hash = "b915825095a9712badcaec46369ec602bd81c5eb347726e39f99c33a09270e67"
 
 [metadata.files]
 altgraph = [
@@ -692,8 +692,8 @@ pefile = [
     {file = "pefile-2019.4.18.tar.gz", hash = "sha256:a5d6e8305c6b210849b47a6174ddf9c452b2888340b8177874b862ba6c207645"},
 ]
 pex = [
-    {file = "pex-2.1.19-py2.py3-none-any.whl", hash = "sha256:aed9832ae944f7dfacc0979f17349d43c373c88b3b35ab634fb740b1abedc5e7"},
-    {file = "pex-2.1.19.tar.gz", hash = "sha256:26995f301548607da97e85a5d26b1de5c6a77756da565cff10cd011b5e40ab20"},
+    {file = "pex-2.1.20-py2.py3-none-any.whl", hash = "sha256:ae5ed8d945123ba9b135a27c79ffbe89c9865fa238594a44b0064503cb17eb2d"},
+    {file = "pex-2.1.20.tar.gz", hash = "sha256:2f1cf9721aa5fce93b034d2a18922d34d6f5fb81236ab3a955706226b15658fd"},
 ]
 pluggy = [
     {file = "pluggy-0.13.1-py2.py3-none-any.whl", hash = "sha256:966c145cd83c96502c3c3868f50408687b38434af77734af1e9ca461a4081d2d"},
